@@ -1,7 +1,7 @@
 {
   "name": "marsweather",
   "version": "1.0.0",
-  "description": "A Webapp for viewing the current and past weather on the planet Mars.",
+  "description": "A single page app for viewing the current and past weather on the planet Mars.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
